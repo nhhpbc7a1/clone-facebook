@@ -29,15 +29,17 @@
     position: relative;
     top: -100px;
 }
-.col1 h1{
-    color: #1877f2;
-    font-size: 54px;
-}
 .col1 p{
     font-size: 27px;
     letter-spacing: 0.8px;
     font-weight: 500;
     color: var(--text-color);
+}
+
+.col1 img{
+    width: 320px;
+    margin-left: -32px;
+    margin-bottom: -10px;
 }
 
 .col2{
